@@ -4,28 +4,93 @@ ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Bordes principales
-    100004: Columna
-    100006: ParedPeceraChica
-    100008: ParedPeceraGrande
+    100002: Columna
+    100004: ParedCorrediza
+    100006: Paredes
+    100008: PeceraParedChica
+    100010: PeceraParedGrande
+    100012: PeceraVidriosChicos
+    100014: PeceraVidriosGrandes
+    100016: Piso
+    100018: PuertaPrincipal
+    100020: PuertaTrasera
+    100022: Techo
+    100024: VentanaAdelante
+    100026: VentanaAtras
+    100028: VentanaPuertaPrincipal
+    100030: VentanasPecera
     400000: //RootNode
-    400002: Bordes principales
-    400004: Columna
-    400006: ParedPeceraChica
-    400008: ParedPeceraGrande
-    2100000: No Name
-    2300000: Bordes principales
-    2300002: Columna
-    2300004: ParedPeceraChica
-    2300006: ParedPeceraGrande
-    3300000: Bordes principales
-    3300002: Columna
-    3300004: ParedPeceraChica
-    3300006: ParedPeceraGrande
-    4300000: Bordes principales
-    4300002: ParedPeceraChica
-    4300004: ParedPeceraGrande
-    4300006: Columna
+    400002: Columna
+    400004: ParedCorrediza
+    400006: Paredes
+    400008: PeceraParedChica
+    400010: PeceraParedGrande
+    400012: PeceraVidriosChicos
+    400014: PeceraVidriosGrandes
+    400016: Piso
+    400018: PuertaPrincipal
+    400020: PuertaTrasera
+    400022: Techo
+    400024: VentanaAdelante
+    400026: VentanaAtras
+    400028: VentanaPuertaPrincipal
+    400030: VentanasPecera
+    2100000: ParedColorBlanco
+    2100002: PeceraColorBlanco
+    2100004: PeceraColorCeleste
+    2100006: ColumnaColor
+    2100008: PisoCuadrados
+    2100010: TechoCuadrados
+    2100012: PuertaPrincipalCOlor
+    2100014: VidriosColor
+    2100016: ObjetosSecundariosParedColor
+    2100018: PuertaTraseraBordesVidrio
+    2100020: ParedCorredizaParteArribaColor
+    2300000: Columna
+    2300002: ParedCorrediza
+    2300004: Paredes
+    2300006: PeceraParedChica
+    2300008: PeceraParedGrande
+    2300010: PeceraVidriosChicos
+    2300012: PeceraVidriosGrandes
+    2300014: Piso
+    2300016: PuertaPrincipal
+    2300018: PuertaTrasera
+    2300020: Techo
+    2300022: VentanaAdelante
+    2300024: VentanaAtras
+    2300026: VentanaPuertaPrincipal
+    2300028: VentanasPecera
+    3300000: Columna
+    3300002: ParedCorrediza
+    3300004: Paredes
+    3300006: PeceraParedChica
+    3300008: PeceraParedGrande
+    3300010: PeceraVidriosChicos
+    3300012: PeceraVidriosGrandes
+    3300014: Piso
+    3300016: PuertaPrincipal
+    3300018: PuertaTrasera
+    3300020: Techo
+    3300022: VentanaAdelante
+    3300024: VentanaAtras
+    3300026: VentanaPuertaPrincipal
+    3300028: VentanasPecera
+    4300000: Paredes
+    4300002: PeceraParedChica
+    4300004: Columna
+    4300006: Piso
+    4300008: Techo
+    4300010: PuertaPrincipal
+    4300012: VentanaAtras
+    4300014: VentanaAdelante
+    4300016: PuertaTrasera
+    4300018: ParedCorrediza
+    4300020: PeceraParedGrande
+    4300022: PeceraVidriosChicos
+    4300024: PeceraVidriosGrandes
+    4300026: VentanasPecera
+    4300028: VentanaPuertaPrincipal
   externalObjects: {}
   materials:
     importMaterials: 1
