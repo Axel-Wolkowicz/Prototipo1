@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
 
     public GameObject pantallaWin;
     public GameObject pantallaLose;
+    public GameObject PanelVictoria;
+    public GameObject PanelDerrota;
 
     float tiempo = 60f;
 
@@ -28,6 +30,8 @@ public class GameManager : MonoBehaviour
     {
         pantallaWin.SetActive(false);
         pantallaLose.SetActive(false);
+        PanelVictoria.SetActive(false);
+        PanelDerrota.SetActive(false);
     }
 
     void Update()
@@ -55,6 +59,7 @@ public class GameManager : MonoBehaviour
             gameOver = true;
 
             pantallaLose.SetActive(true);
+            PanelDerrota.SetActive(true);
 
             Time.timeScale = 0;
         }
@@ -64,6 +69,7 @@ public class GameManager : MonoBehaviour
             gameOver = true;
 
             pantallaWin.SetActive(true);
+            PanelVictoria.SetActive(true);
 
             Time.timeScale = 0;
         }
