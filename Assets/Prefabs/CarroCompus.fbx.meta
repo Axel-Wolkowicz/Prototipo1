@@ -1,26 +1,20 @@
 fileFormatVersion: 2
-guid: a5376e74851845846bb0e0b9f45265a2
+guid: 125bea33c020d3d40bd6a2cc784e201d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: Celeste
-    2100002: Madera
+    2100000: CarroCompusNegro
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cube
+    4300000: CarroCompus
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Celeste
-    second: {fileID: 2100000, guid: 1c68ba2dec44f6a4b9dfe4ec2c87dfa0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Madera
-    second: {fileID: 2100000, guid: 766dd9345ad2e79408829cb63cb5d827, type: 2}
+      name: CarroCompusNegro
+    second: {fileID: 2100000, guid: dfdb337cab740c54cac8b4b07aee893e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
